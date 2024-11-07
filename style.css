@@ -1,0 +1,203 @@
+.head {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 20px;
+    text-align: center;
+
+}
+
+.main {
+    position: relative;
+    padding-right: 5px;
+    margin-left: 450px;
+    width: fit-content;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    background-color: rgba(64, 176, 61, 0.49);
+    border-radius: 10px;
+    padding: 20px;
+
+
+}
+.pakistan{
+    font-size: 35px;
+    font-style: bold;
+}
+.national{
+    position: relative;
+    top: -6%;
+}
+.img {
+    border-radius: 15px;
+    margin-top: 05px;
+    width: 90px;
+    height: 90px;
+}
+
+h1,
+p {
+
+    margin-top: -30px;
+}
+
+small {
+    margin-top: -56px;
+    margin-right: 84px;
+    display: block;
+    display: flex;
+    flex-direction: column;
+    font-size: 10px;
+}
+
+.flag {
+    width: 50px;
+    height: 50px;
+    margin-left: 520px;
+    margin-top: -37px;
+}
+
+.name {
+    margin-right: 150px;
+    padding-top: 20px;
+}
+
+.fullname {
+    font-size: 15px;
+    margin-right: 20px;
+    padding-top: 17px;
+}
+
+.urduname {
+    margin-left: 150px;
+    padding-top: 15px;
+}
+
+.fname {
+    margin-right: 100px;
+    padding-top: 28px;
+}
+
+.Fname {
+    margin-right: 95px;
+    padding-top: 18px;
+}
+
+.furdu {
+    margin-left: 185px;
+    padding-top: 15px;
+
+}
+
+.gender {
+    margin-right: 150px;
+    padding-top: 25px;
+}
+
+.m {
+    margin-right: 150px;
+    padding-top: 15px;
+}
+
+.country {
+    margin-left: 60px;
+    margin-top: -62px;
+}
+
+.pak {
+    margin-left: 20px;
+    margin-top: -16px;
+
+}
+
+.identity {
+    margin-right: 74px;
+    padding-top: 25px;
+}
+
+.idno {
+    margin-right: 74px;
+    padding-top: 15px;
+}
+
+.dob {
+    margin-left: 190px;
+    margin-top: -62px;
+}
+
+.birth {
+    margin-left: 173px;
+    padding-top: 14px;
+}
+
+.doi {
+    margin-right: 103px;
+    padding-top: 17px;
+}
+
+.issue {
+    margin-right: 100px;
+    padding-top: 15px;
+}
+
+.epd {
+    margin-left: 199px;
+    margin-top: -63px;
+    
+}
+
+.expiry {
+    margin-left: 180px;
+    padding-top: 15px;
+    
+}
+
+.mypic {
+    border-radius: 10px;
+    width: 100px;
+    height: 120px;
+    position: absolute;
+    right: 35px;
+    top: 41%;
+}
+
+.sim {
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+    position: absolute;
+    left: 110px;
+    top: 37%;
+}
+.center{
+    border-radius: 20px;
+    width: 240px;
+    height: 200px;
+    align-items: center;
+    margin-left: 88px;
+    margin-top: -155px;
+    opacity: 0.3;
+   
+}
+.signature{
+    margin-left: 445px;
+    font-size: 12px;
+    margin-top: -80px;
+}
+.short{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 81%;
+    left: 109px;
+    border-radius: 100%;
+    opacity: 0.3;
+}
+.text{
+    position: absolute;
+    left: 112px;
+    top: 91%;
+    opacity: 0.4;
+}

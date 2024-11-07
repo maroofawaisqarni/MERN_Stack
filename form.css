@@ -1,0 +1,174 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f2f2f2;
+    margin-top: 40px;
+}
+
+.main {
+    width: 100%;
+    max-width: 540px;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    height: 535px;
+}
+
+fieldset {
+    border: 2px solid #4CAF50;
+    padding: 20px;
+    border-radius: 8px;
+    height: 497px;
+}
+
+legend {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #4CAF50;
+    padding: 0 10px;
+}
+
+label {
+    display: block;
+    margin-top: 15px;
+    font-weight: bold;
+    color: #333;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+select {
+    width: 50%;
+    padding: 8px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 14px;
+}
+
+input[type="radio"] {
+    margin-top: 10px;
+}
+
+input[type="submit"] {
+    width: 100%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    font-size: 1em;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+input[type="submit"]:hover {
+    background-color: #45a049;
+}
+
+.LastName {
+    position: relative;
+    left: 240px;
+    bottom: 73px;
+}
+
+.Gender {
+    position: relative;
+    top: 45px;
+}
+
+.MALE {
+    position: relative;
+    left: 64px;
+    bottom: 25px;
+}
+
+.male {
+    position: relative;
+    left: 25px;
+    bottom: 34px;
+}
+
+.FEMALE {
+    position: relative;
+    bottom: 85px;
+    left: 135px;
+}
+
+.female {
+    position: relative;
+    bottom: 34px;
+    left: 26px;
+}
+
+.Country {
+    position: relative;
+    bottom: 220px;
+    left: 240px;
+}
+
+.email {
+    position: relative;
+    bottom: 292px;
+}
+
+.password {
+    position: relative;
+    bottom: 205px;
+   
+}
+
+.cpass {
+    position: relative;
+    bottom: 277px;
+    left: 240px;
+}
+
+.button {
+    position: relative;
+    bottom: 260px;
+}
+
+.status {
+    position: relative;
+    bottom: 459px;
+    left: 243px;
+}
+
+.married {
+    position: relative;
+    left: 55px;
+    bottom: 27px;
+}
+
+.Married {
+    position: relative;
+    bottom: 33px;
+    left: 20px;
+}
+
+.Single {
+    position: relative;
+    bottom: 87px;
+    left: 143px;
+}
+
+.single {
+    position: relative;
+    bottom: 33px;
+    left: 24px;
+}
+
+.login {
+    position: relative;
+    bottom: 392px;
+}
